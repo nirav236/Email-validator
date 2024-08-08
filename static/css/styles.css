@@ -1,0 +1,7 @@
+.container {
+    max-width: 600px;
+}
+
+.progress-bar {
+    transition: width 0.4s ease;
+}
